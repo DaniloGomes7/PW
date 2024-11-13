@@ -113,6 +113,22 @@ footer{
     background-image:url(../CSS/imagensTenis/tn6.jpeg);
 }
 
+.footer1p{
+    justify-content: space-evenly;
+
+}
+
+
+.footer2p{
+    justify-content: space-evenly;
+
+}
+
+
+.footer3p{
+    justify-content: center;}
+
+
 
 .footerlinks:link{
     color: white;
